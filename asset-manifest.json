@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/messagebirthday/static/css/main.614e2c16.css",
+    "main.js": "/messagebirthday/static/js/main.a42fabf2.js",
+    "static/js/453.f871e580.chunk.js": "/messagebirthday/static/js/453.f871e580.chunk.js",
+    "static/media/bday.gif": "/messagebirthday/static/media/bday.0bb14860f9bc2eb0016f.gif",
+    "static/media/giftBox.gif": "/messagebirthday/static/media/giftBox.679246f2f2fc3b1ad5a6.gif",
+    "static/media/2109430_e6b77.gif": "/messagebirthday/static/media/2109430_e6b77.c68a353825a74d530a2d.gif",
+    "index.html": "/messagebirthday/index.html",
+    "main.614e2c16.css.map": "/messagebirthday/static/css/main.614e2c16.css.map",
+    "main.a42fabf2.js.map": "/messagebirthday/static/js/main.a42fabf2.js.map",
+    "453.f871e580.chunk.js.map": "/messagebirthday/static/js/453.f871e580.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.614e2c16.css",
+    "static/js/main.a42fabf2.js"
+  ]
+}
